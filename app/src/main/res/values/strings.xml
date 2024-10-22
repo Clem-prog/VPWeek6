@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">VP Week 6</string>
     <string name="title_activity_github">Github</string>
+    <string name="title_activity_test2">Test2</string>
 </resources>
